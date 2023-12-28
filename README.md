@@ -9,3 +9,5 @@
 - [Tutorial: Create a Go module](/tutorial%3A%20create_a_go_module/) / [Notion 정리](https://distinct-bulb-c95.notion.site/Tutorial-Create-a-Go-module-5499a4d5d3624f968246fb9d3c95f04a?pvs=4)
 
 - [Tutorial: Getting started with multi-module workspaces](/tutorial%3A%20getting_started_with_multi-module_workspaces/) / [Notion 정리](https://distinct-bulb-c95.notion.site/Tutorial-Getting-started-with-multi-module-workspaces-7cfc7e04f7f74dcd9b779715515c6222?pvs=4)
+
+- [Goroutines](/goroutines/) / [Notion 정리](https://distinct-bulb-c95.notion.site/Goroutines-5dcbfb1990864939851b85ba165895be?pvs=4)
